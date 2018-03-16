@@ -1,0 +1,29 @@
+{
+  "app": {
+    "name": "Binance Duster",
+    "licenceKey": "",
+    "refreshRate": 1
+  },
+  "binance": {
+    "key": "Your Binance API key",
+    "secret": "Your Binance API secret",
+    "market": "BTC"
+  },
+  "bnb": {
+    "manageBalance": true,
+    "buyWhenLessThan": 0.2,
+    "preferredBalance": 3,
+    "sellWhenMoreThan": 4
+  },
+  "notifications": {
+    "change": true,
+    "critical": true,
+    "information": true,
+    "orders": true,
+    "warnings": true
+  },
+  "telegram": {
+      "token": "123456789:ABcdEFghIJklMNopQRstUVwxYZ123456789",
+      "chatID": 123456789
+  }
+}
