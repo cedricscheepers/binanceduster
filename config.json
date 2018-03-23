@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "Binance Duster",
-    "licenceKey": "",
+    "licenseKey": "",
     "refreshRate": 1
   },
   "binance": {
